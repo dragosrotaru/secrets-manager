@@ -8,7 +8,7 @@ secrets.
 
 For more information, go to the project page and source code repository hosted on github.com:
 
-https://github.com/dragosrotaru/secretsmanager
+https://github.com/dragosrotaru/secrets-manager
 
 ## Commands
 
